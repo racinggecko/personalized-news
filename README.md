@@ -1,2 +1,8 @@
 # personalized-news
-Personalized news app.
+This personalized news app uses ai to change your news feed. You can block news articles you don't like, and favorite ones you do.
+
+# Made with
+ `django`
+ 
+# How to run
+ `git clone 
