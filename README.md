@@ -5,4 +5,4 @@ This personalized news app uses ai to change your news feed. You can block news 
  `django`
  
 # How to run
- `git clone 
+ `git clone https://github.com/racinggecko/personalized-news.git`
